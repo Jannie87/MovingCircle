@@ -1,0 +1,9 @@
+.circle {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 100rem;
+    background-color: violet;
+    border-color: rgb(145, 55, 145);
+    position: fixed;
+    transform: translate(-50%, -50%);
+}
